@@ -29,7 +29,7 @@ This project involves solving four distinct AI problems categorized under Game A
 
 ---
 
-## Sample Outputs
+## Sample Output
 
 ### Problem 1: Tic-Tac-Toe GUI & Comparison
 ![Tic-Tac-Toe Output](p1_output.png)
